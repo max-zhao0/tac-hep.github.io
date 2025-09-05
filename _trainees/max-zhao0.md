@@ -5,7 +5,7 @@ shortname: 105580640
 name: Max Zhao
 start_date: "2025-09-01"
 end_date: "2027-09-01"
-photo: /assets/images/trainees/Max-Zhao.jpg
+photo: /assets/images/trainees/Max-Zhao.png
 institution: Princeton University
 training_modules:
 - 
